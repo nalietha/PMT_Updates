@@ -1,5 +1,5 @@
 {
-  "datetime": "2025-11-26 14:29:00",
-  "title": "Undo Undo Redo",
-  "body": "Refactoring update\n- Removal of the Undo and Redo commands"
+  "datetime": "2025-11-27 17:03:00",
+  "title": "Update 0.16.27!",
+  "body": "Added a new setting, for those with weak fingers\n- ClickLock: click once and forget about ever touching the left mouse button again!"
 }
