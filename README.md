@@ -41,22 +41,30 @@ Return to your Detective's Corkboard. As you collect clues across different imag
 * **Expandable Gallery:** A growing library of pixel art packs across various themes.
 
 
-**Controls**
-
+### **Controls**
 The game is played primarily with the mouse, designed for one-handed relaxation.
 
-*Note: Place image\_0.png (The Controls Cheat Sheet image) in your project folder.*
+Note: Place image_2.png (The correct Controls Cheat Sheet image) in your project folder.
 
-### **Movement & View**
+#### Movement & View
+* **Middle Mouse Button (Hold & Drag):** Pan the camera around the canvas.
 
-* **Right-Click \+ Drag:** Pan the camera around the canvas.  
+* **Ctrl + Left-Click (Hold & Drag):** Alternative way to pan the camera.
+
 * **Mouse Wheel:** Zoom in and out for precision painting.
 
-### **Painting & Tools**
+#### Painting & Tools
+* **Left-Click (Hold):** Paint using the currently selected tool and color.
 
-* **Left-Click (Hold):** Paint using the currently selected tool and color.  
-* **Palette (Right Sidebar):** Click a color swatch to select that mask index. The canvas will highlight where that color belongs.  
+* **Right-Click:** Quickly select the color/mask that is currently under your mouse cursor (Eyedropper).
+
+* **Q / E Keys:** Cycle back and forth through the available masks in the palette.
+
+* **Palette (Right Sidebar):** Click a color swatch to manually select that mask index. The canvas will highlight where that color belongs.
+
 * **Toolbar (Left Sidebar):** Switch between your available painting tools (Brush, Roller, Fill).
+
+**Note on Saving:** Your progress is automatically saved whenever you return to the Main Menu.
 
 
 ### **Installation & Setup**
