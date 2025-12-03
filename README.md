@@ -59,7 +59,7 @@ The game is played primarily with the mouse, designed for one-handed relaxation.
 * **Toolbar (Left Sidebar):** Switch between your available painting tools (Brush, Roller, Fill).
 
 
-**Installation & Setup**
+### **Installation & Setup**
 I have a custom launcher to ensure you always have the latest version of the story and pixel art.
 
 1. Download the Launcher
@@ -68,7 +68,7 @@ Download the latest PMT_Launcher.exe from our [releases page](Let's insert your 
 2. Run the Launcher
 Double click to run Pixel Me This Launcher.exe. The launcher will automatically check for the latest game version and download it. Once complete, click Play.
 
-⚠️ A Note on Windows Security Warnings ⚠️
+### ⚠️ A Note on Windows Security Warnings ⚠️
 Because we are an indie developer and have not purchased an expensive digital certificate to "sign" our application, Windows Microsoft Defender SmartScreen will likely flag the launcher the first time you run it.
 
 This is normal and expected for new indie games. The file is safe.
