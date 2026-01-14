@@ -1,0 +1,5 @@
+{
+  "datetime": "2026-01-14 12:00:00",
+  "title": "Daily System Hotfix v0.16.48",
+  "body": "A focus on stability and the new Daily Archive system.\n- Added 'Ownership System' to allow purchasing old Daily Packs.\n- Updated Daily Calendar visuals: Future and current days now show a 'Mystery' icon to avoid spoilers.\n- Fixed a crash when opening the Daily Gallery.\n- Fixed a potential infinite loop crash with modded content.\n- Fixed an issue where thumbnails would overflow their grid cells."
+}
