@@ -1,0 +1,5 @@
+{
+  "datetime": "2026-01-14 18:30:00",
+  "title": "Daily System Fix v0.16.51",
+  "body": "Daily Pack logic has been improved to ensure the correct pack is active based on the current date.\n- Fixed an issue where the Daily Calendar would appear empty if an old Daily Pack was loaded first.\n- Fixed a bug preventing profile icons and daily thumbnails from loading correctly in exported builds.\n- Ensured the most relevant Daily Pack is prioritized in the calendar view."
+}
