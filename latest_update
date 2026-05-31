@@ -1,0 +1,5 @@
+{
+  "datetime": "2026-05-30 21:23:00",
+  "title": "Minor Update v0.18.20",
+  "body": "A quick update focusing on UI polish and navigation fixes.\n- Added custom Casefile backgrounds that load dynamically from pack assets (defaults to the standard gallery background).\n- Added a sleek carousel fallback to properly display long pack names.\n- Darkened the Main Menu buttons to significantly increase text readability.\n- Fixed a UI routing bug where the Calendar back button failed to return you to the Main Menu."
+}
